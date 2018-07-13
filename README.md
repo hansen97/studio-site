@@ -1,2 +1,2 @@
 # studio-site
-Design marketing 
+Personal marketing website.
